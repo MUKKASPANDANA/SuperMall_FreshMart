@@ -16,10 +16,10 @@ https://super-mall-fresh-mart.vercel.app/
      - 🥩 Meat & Poultry
      - 🧴 Household & Essentials
  - **Each category displays**:
-  - Product name
-  - Price
-  - Quick view option
-  - **Add to Cart** button
+    - Product name
+    - Price
+    - Quick view option
+    - **Add to Cart** button
  - **Favorite (Wishlist)**
   - Mark products as favorite to save them for later.
   - Accessible anytime from the Favorites section.
