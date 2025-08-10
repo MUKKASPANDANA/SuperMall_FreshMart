@@ -21,8 +21,8 @@ https://super-mall-fresh-mart.vercel.app/
     - Quick view option
     - **Add to Cart** button
  - **Favorite (Wishlist)**
-  - Mark products as favorite to save them for later.
-  - Accessible anytime from the Favorites section.
+    - Mark products as favorite to save them for later.
+    - Accessible anytime from the Favorites section.
 - **Deals & Special Offers**
   - Dedicated section for discounted products.
   - Add to cart directly from the deals section.
